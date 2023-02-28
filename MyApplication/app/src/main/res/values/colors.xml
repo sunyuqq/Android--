@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="bookItemNameColor">#2B2B2B</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#CCCCCC</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="MidNightBlue">#191970</color>
+    <color name="nightBackGround">#444444</color>
+    <color name="pageyellow">#D1BC8A</color>
+
+    <color name="seek_bar_color_usual">#20a9c7</color>
+    <color name="seek_bar_color_old_time">#d49762</color>
+    <color name="seek_bar_color_eye">#34a98a</color>
+    <color name="seek_bar_color_night">#2b80cf</color>
+
+    <color name="text_color_normal">#8A000000</color>
+    <color name="text_color_night">#a9a8a8</color>
+    <color name="text_color_blue">#486c94</color>
+    <color name="text_color_white">#fbe6e3e3</color>
+    <color name="text_color_black">#121111</color>
+
+    <color name="btn_text_color">#ff000000</color>
+
+    <color name="stroke_color_light_normal">#c1c0c0</color>
+    <color name="stroke_color_dark_normal">#5c5c5c</color>
+    <color name="stroke_color_pressed">#1ca0be</color>
+
+    <color name="color_transparent">#00ffffff</color>
+
+</resources>

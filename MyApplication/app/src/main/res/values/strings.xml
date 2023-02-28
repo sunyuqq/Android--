@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NovelApp</string>
+    <string name="Cbookname">书名：</string>
+    <string name="Ctag">标签：</string>
+    <string name="Cauthor">作者：</string>
+    <string name="Cdescripe">简介：</string>
+    <string name="addshelf">已加入书架</string>
+    <string name="alreadybook">该书籍已经存在于书架中</string>
+    <string name="dontaddagine">请勿重复添加</string>
+</resources>

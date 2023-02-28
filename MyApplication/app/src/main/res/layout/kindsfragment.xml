@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="#6A6969">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+       >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+
+       >
+
+        <Button
+            android:id="@+id/qihuan"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/qikind"
+            android:text="奇幻" />
+
+        <ImageView
+            android:layout_width="20sp"
+            android:layout_height="20sp"/>
+        <Button
+            android:id="@+id/lianai"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/lianaikind"
+            android:text="恋爱" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/junshi"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/junshikind"
+            android:text="军事" />
+
+        <ImageView
+            android:layout_width="20sp"
+            android:layout_height="20sp"/>
+        <Button
+            android:id="@+id/wuxia"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/wuxiakind"
+            android:text="武侠" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/youxi"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/youxikind"
+            android:text="游戏" />
+
+        <ImageView
+            android:layout_width="20sp"
+            android:layout_height="20sp"/>
+        <Button
+            android:id="@+id/xianxia"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/xianxiakind"
+            android:text="仙侠" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/tiyu"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/tiyukind"
+            android:text="体育" />
+
+        <ImageView
+            android:layout_width="20sp"
+            android:layout_height="20sp"/>
+        <Button
+            android:id="@+id/xuanyi"
+            android:layout_width="194dp"
+            android:layout_height="120dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp"
+            android:background="@drawable/xuanyikind"
+            android:text="悬疑" />
+    </LinearLayout>
+
+   </LinearLayout>
+</LinearLayout>
